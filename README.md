@@ -26,18 +26,6 @@ Também atuo voluntariamente como desenvolvedora e suporte técnico na comunidad
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elisaosares0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisaosares0&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisasoarestech/)
