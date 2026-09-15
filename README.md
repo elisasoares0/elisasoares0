@@ -28,11 +28,12 @@ Também atuo voluntariamente como desenvolvedora e suporte técnico na comunidad
 
 ### 📊 Estatísticas do GitHub
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elisaosares0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=radical" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisaosares0&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
