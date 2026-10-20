@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  # 💻 Olá, eu sou a Elisa Soares!
+  # 💻 Sou a Elisa Soares!
 
   <p align="center">
     <b>Estudante de Ciência da Computação • Focada por Engenharia de Dados & Cloud Computing</b>
